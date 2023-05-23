@@ -1,13 +1,13 @@
 ## Elliott Richmond
 
-Contributors: Elliott Richmond
-Tested up to: 6.2
-Requires at least: 6.1
-Requires PHP: 8
-Version: 1.0.0
-License: GPLv2 or later
-License URI: http://www.gnu.org/licenses/gpl-2.0.html
-Copyright: Elliott Richmond
+**Contributors:** Elliott Richmond  
+**Tested up to:** 6.2  
+**Requires at least:** 6.1  
+**Requires PHP:** 8  
+**Version:** 1.0.0  
+**License:** GPLv2 or later  
+**License URI:** http://www.gnu.org/licenses/gpl-2.0.html  
+**Copyright:** Elliott Richmond
 
 A full site editing theme. No code version.
 
@@ -26,10 +26,12 @@ The theme is a barebones starter kit which is block theme ready, to start creati
 NOTE: only the index.html template is included in this theme as a starting point, when you are happy with the edited all the parts/templates you'll have a finished theme ready for distribution, ensure to copy the blocks from the editor rather than save them, copy and paste the relavant blocks into each part/template.
 Do not save any templates or parts in the site editor as you are building your theme and do not save any global settings or styles in site editor otherwise these will override your theme settings and styles as set in your theme.json file.
 
-== Changelog ==
+## Changelog
+
 1.0.0 Initial release
 
-== Licence ==
+## Licence
+
 Elliott Richmond is distributed under the terms of the GNU GPL.
 
 This program is free software: you can redistribute it and/or modify
