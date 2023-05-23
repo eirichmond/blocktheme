@@ -1,4 +1,5 @@
-=== Elliott Richmond ===
+## Elliott Richmond
+
 Contributors: Elliott Richmond
 Tested up to: 6.2
 Requires at least: 6.1
