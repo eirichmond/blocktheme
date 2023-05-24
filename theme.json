@@ -1,4 +1,24 @@
 {
-	"version": 2,
-	"$schema": "https://schemas.wp.org/trunk/theme.json"
+	"$schema": "https://schemas.wp.org/trunk/theme.json",
+    "version": 2,
+    "settings": {},
+    "styles": {},
+    "customTemplates": [
+        {
+            "name": "index",
+            "title": "Index"
+        }
+    ],
+    "templateParts": [
+        {
+            "name": "header",
+            "title": "Header",
+            "area": "header"
+        },
+        {
+            "name": "footer",
+            "title": "Footer",
+            "area": "footer"
+        }
+    ]
 }
